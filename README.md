@@ -1,5 +1,7 @@
 # petsbot
 
+![2022-05-07 16 56 49](https://user-images.githubusercontent.com/99502344/167257460-6ea7461b-4532-4b13-aedf-edca47eb2f63.gif)
+
 ## General Information
 
 This is a Telegram bot that gives you random pic of a dressed pet to boost your serotonin level. Pics are taken from MySQL DB. Made to improve Python skills and brighten someone's day :)
