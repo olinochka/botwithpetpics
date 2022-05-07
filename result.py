@@ -35,11 +35,6 @@ def serotonin(update, context):
     cursor.execute(query)
     tuple_record = cursor.fetchall()
 
-    # print(tuple_record)
-    # print(tuple_record[0])
-    # print(type(tuple_record[0]))
-    # print(type(tuple_record))
-
     def convertTuple(tup):
         justbytes = b''.join(tup)
         return justbytes
