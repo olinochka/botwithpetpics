@@ -6,7 +6,7 @@
 
 This is a Telegram bot that gives you random pic of a dressed pet to boost your serotonin level. Pics are taken from MySQL DB. Made to improve Python skills and brighten someone's day :)
 
-Written completely in Python. Also used just one SQL SELECT statement to get random pic from MySQL DB.
+Written completely in Python. I've also used just one SQL SELECT statement to get random pic from MySQL DB.
 
 ## Technologies Used
 
